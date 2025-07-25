@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **hasanratul647@gmail.com**
 
-- ⚡ **I am a quick learner**
+<h3>⚡ **I am a quick learner**<h3/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
