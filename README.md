@@ -1,4 +1,8 @@
 ![logo](https://camo.githubusercontent.com/b0d12c640e969f1cff1c70bb51c8e1eedfee5f546b1b061c9d1a9a91e70d15c3/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=4000&center=true&vCenter=true&width=500&height=70&lines=Hello+Everyone!;I'm+Ratul+Hasan;Front+End+Web+Developer" alt="Typing SVG" />
+  </a>
+
 <h1 align="center">Hi 👋, I'm Ratul Hasan Rabby</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
