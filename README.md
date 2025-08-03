@@ -42,7 +42,12 @@ I can build responsive websites....
 
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<h2>✨ Thank you for visiting my profile</h2>
+
+<div align="center">
+
+   <h2>✨ Thank you for visiting my profile ✨</h2>
+  
+</div>
 <!--
 **ratul647/ratul647** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
