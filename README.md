@@ -15,11 +15,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratul647&label=Profile%20views&color=0e75b6&style=flat" alt="ratul647" /> </p>
      ## 👨‍💻 About Me
+     
+💼 Professional Skills
+Front-End Development (HTML, CSS, Tailwind CSS, JavaScript, React.js) | Photoshop Editing | Video Editing | Social Media Management | Digital Marketing  
+ ( I am a quick Learner)
+ 
+🎨 Content Creation
+Acting | Dancing | Drawing | Creative Writing | Storytelling | Idea Generation || Gamer ||
 
-I am a skilled web designer proficient in React.js, JavaScript, CSS, Tailwind CSS, Bootstrap, HTML, Photoshop,
-social media management, and video editing. I have experience in front-end development
-and love creating user-friendly web applications. Additionally,
-I can build responsive websites....
 
 - 🔭 Currently working on: **Building scalable web applications**
   
