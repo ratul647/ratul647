@@ -7,7 +7,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=4000&center=true&vCenter=true&width=500&height=70&lines=Hello+Everyone!;I'm+Ratul+Hasan+Rabby;Front+End+Web+Developer" alt="Typing SVG" />
   </a>
-  <h3 align="center">Passionate Developer from Bangladesh <img src="https://github.com/TonmoySarkerTnu/TonmoySarkerTnu/blob/main/assets/bangladesh-198_256.gif?raw=true" width="28"></h3>
+  <h3 align="center"> <img src="https://github.com/TonmoySarkerTnu/TonmoySarkerTnu/blob/main/assets/bangladesh-198_256.gif?raw=true" width="28"> Passionate Developer from Bangladesh <img src="https://github.com/TonmoySarkerTnu/TonmoySarkerTnu/blob/main/assets/bangladesh-198_256.gif?raw=true" width="28"></h3>
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
